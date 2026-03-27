@@ -45,3 +45,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genosis18m&show_icons=true&theme=radical&locale=en&layout=compact" alt="genosis18m" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genosis18m&show_icons=true&theme=radical&locale=en" alt="genosis18m" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genosis18m&theme=radical" alt="genosis18m" /></p>
