@@ -33,7 +33,3 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mohit-adoni-a65b42284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-adoni" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=genosis18m&show_icons=true&theme=radical&locale=en" alt="genosis18m" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genosis18m&theme=radical" alt="genosis18m" /></p>
